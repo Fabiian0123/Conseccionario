@@ -1,0 +1,244 @@
+
+/*Container Quienes Somos*/
+.container_quienesSomos{
+    background-color:#828282;
+    border-radius: 20px;
+    display: block;
+}
+.titulo_container_quienesSomos{
+    color: white;
+    font-family: Arial Black;
+    text-align: center;
+}
+.contenido_container_quienesSomos{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+/*Fin del Container Quienes Somos*/
+
+/*Container Servicios*/
+.container_servicios{
+    background-color:#828282;
+    border-radius: 20px;
+    display: block;
+    margin: 0;
+    height: 200px;
+}
+.titulo_container_servicios{
+    color: white;
+    font-family: Arial Black;
+    text-align: center;
+}
+.botones_servicios{
+    text-align: center;
+
+}
+.boton_mantenimiento{
+    padding: 20px;
+    background-color:black;
+    color: white;
+    border-radius: 10px;
+    font-family: Arial Black;
+    text-decoration: none;
+}
+.boton_mantenimiento:hover{
+    background-color:darkgray;
+}
+.boton_Alineacion{
+    padding: 20px;
+    background-color:black;
+    color: white;
+    border-radius: 10px;
+    font-family: Arial Black;
+    text-decoration: none;
+}
+.boton_Alineacion:hover{
+    background-color:darkgray;
+}
+/*Fin del container servicios*/
+
+/*container trabaja con nosotros*/
+.container_trabajaConNosotros{
+    background-color:#828282;
+    border-radius: 20px;
+    display: block;
+}
+.titulo_container_trabajaConNosotros{
+    color: white;
+    font-family: Arial Black;
+    text-align: center;
+}
+.contenido_container_trabajaConNosotros{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+/*fin container trabaja con nosotros*/
+
+/*Pagina BMW*/
+
+.titulo_page_bmw{
+    color: black;
+    font-size: Arial Black;
+    text-align: center;
+    padding-bottom: 10px;
+    background-color: #828282;
+    border-radius: 15px;
+}
+.contenedor_principal{
+    display:flex;
+}
+/*Card 1*/
+.card-text1{
+    font-family: Arial Black;
+
+}
+.card-text2{
+    font-family: Arial Black;
+
+}
+.card-text3{
+    font-family: Arial Black;
+
+}
+.card-text4{
+    font-family: Arial Black;
+
+}
+.card-text5{
+    font-family: Arial Black;
+
+}
+.card1{
+    width: 18rem;
+    padding-left: 30px;
+    border-width: 2px;
+    border-style:double;
+    border-color: black;
+    margin-left: 15px;
+}
+/*Fin Card 1*/
+/*Card 2*/
+.card-text6{
+    font-family: Arial Black;
+
+}
+.card-text7{
+    font-family: Arial Black;
+
+}
+.card-text8{
+    font-family: Arial Black;
+
+}
+.card-text9{
+    font-family: Arial Black;
+
+}
+.card-text10{
+    font-family: Arial Black;
+
+}
+.card2{
+    width: 18rem;
+    padding-left: 30px;
+    border-width: 2px;
+    border-style:double;
+    border-color: black;
+    margin-left: 15px;
+}
+/*Fin Card 2*/
+/*Card 3*/
+.card-text11{
+    font-family: Arial Black;
+
+}
+.card-text12{
+    font-family: Arial Black;
+
+}
+.card-text13{
+    font-family: Arial Black;
+
+}
+.card-text14{
+    font-family: Arial Black;
+
+}
+.card-text15{
+    font-family: Arial Black;
+
+}
+.card3{
+    width: 18rem;
+    padding-left: 30px;
+    border-width: 2px;
+    border-style:double;
+    border-color: black;
+    margin-left: 15px;
+}
+/*Fin Card 3*/
+/*Card 4*/
+.card-text16{
+    font-family: Arial Black;
+
+}
+.card-text17{
+    font-family: Arial Black;
+
+}
+.card-text18{
+    font-family: Arial Black;
+
+}
+.card-text19{
+    font-family: Arial Black;
+
+}
+.card-text20{
+    font-family: Arial Black;
+
+}
+.card4{
+    width: 18rem;
+    padding-left: 30px;
+    border-width: 2px;
+    border-style:double;
+    border-color: black;
+    margin-left: 15px;
+}
+/*Fin Card 4*/
+/*Card 5*/
+.card-text21{
+    font-family: Arial Black;
+
+}
+.card-text22{
+    font-family: Arial Black;
+
+}
+.card-text23{
+    font-family: Arial Black;
+
+}
+.card-text24{
+    font-family: Arial Black;
+
+}
+.card-text25{
+    font-family: Arial Black;
+
+}
+.card5{
+    width: 18rem;
+    padding-left: 30px;
+    border-width: 2px;
+    border-style:double;
+    border-color: black;
+    margin-left: 15px;
+    
+}
+/*Fin Card 5*/
+
+
