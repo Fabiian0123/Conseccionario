@@ -7,7 +7,7 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#">Inicio</a>
+                <a class="nav-link active" aria-current="page" href="/Conseccionario/index.php">Inicio</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#container_quienesSomos">Quienes Somos</a>
@@ -24,7 +24,7 @@
                   <li><a class="dropdown-item" href="/Conseccionario/pages/ford.php">FORD</a></li>
                   <li><a class="dropdown-item" href="/Conseccionario/pages/jeep.php">JEEP</a></li>
                   <li><a class="dropdown-item" href="/Conseccionario/pages/nissan.php">NISSAN</a></li>
-                  <li><a class="dropdown-item" href="#">MERCEDES BENZ</a></li>
+                  <li><a class="dropdown-item" href="/Conseccionario/pages/mercedes.php">MERCEDES BENZ</a></li>
                 </ul>
               </li>
               <li class="nav-item">
